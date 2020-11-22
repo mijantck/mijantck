@@ -33,6 +33,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mijantck&show_icons=true&locale=en&layout=compact" alt="mijantck" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mijantck&show_icons=true&locale=en" alt="mijantck"/></p>
-## 𝗦𝘁𝗮𝘁𝘀
-![Mijanur Rahman's github stats](https://github-readme-stats.vercel.app/api?username=mijantck&show_icons=true&theme=dracula)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mijantck&show_icons=true&theme=dracula&locale=en" alt="mijantck"/></p>
+
