@@ -66,8 +66,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mijantck&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mijantck&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mijantck&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mijantck&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mijantck&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy"/>
+    <img src="https://github-trophies.vercel.app/?username=mijantck&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy"/>
   </a>
 </p>
 
