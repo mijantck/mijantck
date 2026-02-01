@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Full+Stack+%26+Mobile+Developer;Flutter+%7C+Android+%7C+Laravel;5%2B+Apps+on+Play+Store;Building+Apps+that+Matter" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Full+Stack+%26+Mobile+Developer;Flutter+%7C+Android+%7C+Laravel;5%2B+Apps+on+Play+Store;Building+Apps+that+Matter" alt="Typing SVG" />
   </a>
 </p>
 
@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mijantck&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=mijantck&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
