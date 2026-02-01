@@ -44,3 +44,15 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mijantck&show_icons=true&theme=dracula&locale=en" alt="mijantck"/></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mijantck&theme=dracula" alt="mijantck" /></p>
+
+<br/>
+
+<h3 align="center">My Contribution Snake</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mijantck/mijantck/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mijantck/mijantck/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mijantck/mijantck/output/github-snake.svg" />
+</picture>
+
