@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Full+Stack+%26+Mobile+Developer;Flutter+%7C+Android+%7C+Laravel;5%2B+Apps+on+Play+Store;Building+Apps+that+Matter" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=500&lines=Full+Stack+%26+Mobile+Developer;I+Don't+Date%2C+I+Debug+%F0%9F%92%9C;Flutter+%7C+Android+%7C+Laravel;No+Girlfriend%2C+Only+GitHub+%F0%9F%98%85;Code+Is+My+Forever+Love+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
